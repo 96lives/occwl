@@ -35,7 +35,6 @@ import occwl.vertex
 from occwl.geometry.interval import Interval
 from occwl.shape import Shape
 from occwl.base import VertexContainerMixin, BoundingBoxMixin
-from deprecate import deprecated
 import logging
 
 
